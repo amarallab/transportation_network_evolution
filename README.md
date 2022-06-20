@@ -13,3 +13,11 @@ This is the repository associated with the paper "Forecasting the evolution of f
 * **notebooks/** -- notebooks for visulizations 
 * **src/** -- other essentials codes for analysis and visualization
 
+
+**Steps:** <br/>
+
+* **env.txt** -- create conda environment (```$ conda create --name <env> --file <this file> ```)
+* **0_raw2features_usair.py** -- building feature matrix for the models(```$ python3  0_raw2features_usair.py```)
+* **0_raw2features_brazilbus.py** -- building feature matrix for the models (```$ python3  0_raw2features_brazilbus.py```)
+* **1_classification.py** -- **Fig.3, Fig.4, Fig.5 **: running different models (```$ python3  0_raw2features_brazilbus.py```)
+* **2_longterm_prediction.py** -- **Fig.6a**: running long term prediction  (```$ python3  0_raw2features_brazilbus.py```)
