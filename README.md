@@ -11,7 +11,7 @@ This is the repository associated with the paper "Forecasting the evolution of f
     * **features/** -- data folder to put calculated topological features (running raw2features)
 * **results/** -- data folder to put model output (running classification and longterm_prediction)
 * **notebooks/** -- notebooks for visulizations 
-* **src/** -- other essentials codes for analysis and visualization
+* **src/** -- other essential codes for analysis and visualization
 
 
 **Steps:** <br/>
