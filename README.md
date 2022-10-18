@@ -3,7 +3,7 @@
 
 This is the repository associated with the paper **"Forecasting the evolution of fast-changing transportation networks using machine learning" Nature Communications (2022)**<br/>
 
-![Alt Text](./results/giphy.gif)
+![Alt Text](./results/us_air.gif)
 
 **Repository structure:** <br/>
 
