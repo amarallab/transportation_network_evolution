@@ -8,8 +8,8 @@ This is the repository associated with the paper **"Forecasting the evolution of
 **Repository structure:** <br/>
 
 * **data/** -- 
-    * **raw_usair_data/** -- data folder to put raw US air transportation data
-    * **cleaned_brazilbus_data/** -- data folder to put raw Brazil bus transportation data
+    * **raw_usair_data/** -- data folder to put raw US air transportation data (see https://doi.org/10.5061/dryad.1c59zw40z)
+    * **cleaned_brazilbus_data/** -- data folder to put raw Brazil bus transportation data (see https://doi.org/10.5061/dryad.1c59zw40z)
     * **features/** -- data folder to put calculated topological features (running raw2features)
 * **results/** -- data folder to put model output (running classification and longterm_prediction)
 * **notebooks/** -- notebooks for visulizations 
